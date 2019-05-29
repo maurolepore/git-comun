@@ -6,7 +6,9 @@ output: github_document
 
 Mauro Lepore
 
-### __<http://bit.ly/git-comun>__
+### Repositorio: __<http://bit.ly/git-comun>__
+
+### Presentacion: __<http://bit.ly/git-comun-presentacion>__
 
 
 

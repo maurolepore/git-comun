@@ -3,7 +3,9 @@
 
 Mauro Lepore
 
-### **<http://bit.ly/git-comun>**
+### Repositorio: **<http://bit.ly/git-comun>**
+
+### Presentacion: **<http://bit.ly/git-comun-presentacion>**
 
 # 
 
