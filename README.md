@@ -7,6 +7,8 @@ Mauro Lepore
 
 ## Aprender a colaborar
 
+### **0. Por que Git/GitHub?**
+
 ### **1. Bifurcar**
 
 ### **2. Trabajar en un tiquete**
@@ -23,12 +25,20 @@ Mauro Lepore
 
 </div>
 
-*[Excuse me, do you have a moment to talk about version
-control?](https://peerj.com/preprints/3159/)* (Ingles)
+Como se siente trabajar con y sin Git.
 
-## Instalacion
+–
 
-### [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
+Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to
+talk about version control?](https://peerj.com/preprints/3159/)
+
+## Que es un commit?
+
+<img src="https://i.imgur.com/fmrhQOQ.png" align="center" width=760/>
+
+Un comit es como tomar una foto. Eliges los elementos que quieres que
+aparezcan en tu imagen, los acomodas a tu gusto, y finalmente tomas la
+foto.
 
 # Caso de estudio
 
@@ -53,6 +63,8 @@ TODO
 TODO
 
 # Bonus (TBC)
+
+### Instalacion (ver \_[Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up)\_\_; Ingles)
 
 ### Evitar conflictos evitables
 
