@@ -46,7 +46,7 @@ Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to talk about
 
 
 
-# Trabajemos
+# Motivacion
 
 ### Arreglar URLs en README.Rmd
 
@@ -54,15 +54,17 @@ Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to talk about
 
 
 
-## Quieres practicar?
+## Camino corto
 
-### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
+* __Bifurcar un repositorio__
 
-<img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
+<img src="imagenes/fork.png" align="center" width=500/>
 
+* __Trabajar en un tiquete__
 
+* __Solicitar fusión__
 
-# Git + GitHub
+<img src="imagenes/pull.png" align="center" width=500/>
 
 
 
@@ -82,9 +84,33 @@ Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to talk about
 
 ## Camino corto (Demostrar)
 
-### Tiquete: https://github.com/forestgeo/fgeo.plot/issues/57
+### [Tiquete](https://github.com/forestgeo/fgeo.plot/issues/57)
 
-### Archivo: https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd
+### [Archivo a modificar](https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd)
+
+
+
+## Quieres practicar?
+
+### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
+
+<img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
+
+
+
+# Git + GitHub + RStudio
+
+### Camino largo
+
+* __Bifurcar un repositorio__
+* __Trabajar en un tiquete__
+* __Solicitar fusión__
+
+
+
+# Que es un "commit"?
+
+### __Introduccion al uso de Git desde RStudio__
 
 
 
@@ -134,16 +160,19 @@ Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to talk about
 
 
 
-# Git + GitHub + RStudio
-
-
-
 ## Camino Largo
 
 TODO
 
 
 
+# Apendice
+
+
+
+## Recursos
+
+TODO
 
 ### Instalacion (ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up); Ingles)
 

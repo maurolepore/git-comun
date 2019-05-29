@@ -38,19 +38,23 @@ Como se siente trabajar con y sin Git.
 Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to
 talk about version control?](https://peerj.com/preprints/3159/)
 
-# Trabajemos
+# Motivacion
 
 ### Arreglar URLs en README.Rmd
 
 [Tiquete modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
 
-## Quieres practicar?
+## Camino corto
 
-### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
+  - **Bifurcar un repositorio**
 
-<img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
+<img src="imagenes/fork.png" align="center" width=500/>
 
-# Git + GitHub
+  - **Trabajar en un tiquete**
+
+  - **Solicitar fusión**
+
+<img src="imagenes/pull.png" align="center" width=500/>
 
 ## Camino corto
 
@@ -69,6 +73,24 @@ talk about version control?](https://peerj.com/preprints/3159/)
 ### Tiquete: <https://github.com/forestgeo/fgeo.plot/issues/57>
 
 ### Archivo: <https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd>
+
+## Quieres practicar?
+
+### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
+
+<img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
+
+# Git + GitHub + RStudio
+
+### Camino largo
+
+  - **Bifurcar un repositorio**
+  - **Trabajar en un tiquete**
+  - **Solicitar fusión**
+
+# Que es un “commit”?
+
+### **Introduccion al uso de Git desde RStudio**
 
 ## Que es un “commit”?
 
@@ -114,9 +136,13 @@ talk about version control?](https://peerj.com/preprints/3159/)
 
 <img src="https://i.imgur.com/OPuzdBA.png" align="center" width=760/>
 
-# \+ RStudio
-
 ## Camino Largo
+
+TODO
+
+# Apendice
+
+## Recursos
 
 TODO
 
