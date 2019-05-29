@@ -3,17 +3,23 @@
 
 Mauro Lepore
 
-### <https://github.com/maurolepore/git-comun>
+### **<http://bit.ly/git-comun>**
+
+## 
+
+### This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+### To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0>
 
 ## Aprender a colaborar
 
-### **0. Por que Git/GitHub?**
+### Aprender:
 
-### **1. Bifurcar**
-
-### **2. Trabajar en un tiquete**
-
-### **3. Solicitar fusión**
+  - **Por que es importante usar Git/GitHub?**
+  - **Que es un “commit”?**
+  - **Bifurcar un repositorio**
+  - **Trabajar en un tiquete**
+  - **Solicitar fusión**
 
 ## Por que Git/GitHub?
 
@@ -32,15 +38,7 @@ Como se siente trabajar con y sin Git.
 Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to
 talk about version control?](https://peerj.com/preprints/3159/)
 
-## Que es un commit?
-
-<img src="https://i.imgur.com/fmrhQOQ.png" align="center" width=760/>
-
-Un comit es como tomar una foto. Eliges los elementos que quieres que
-aparezcan en tu imagen, los acomodas a tu gusto, y finalmente tomas la
-foto.
-
-# Caso de estudio
+# Trabajemos
 
 ### Arreglar URLs en README.Rmd
 
@@ -52,19 +50,77 @@ foto.
 
 <img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
 
-# Manos a la obra
+# Git + GitHub
 
 ## Camino corto
 
-TODO
+<img src="https://i.imgur.com/Kkll2w8.png" align="center" width=760/>
+
+## Camino corto
+
+<img src="https://i.imgur.com/nMUKXdE.png" align="center" width=760/>
+
+## Camino corto
+
+<img src="https://i.imgur.com/Ed8qevw.png" align="center" width=760/>
+
+## Camino corto (Demostrar)
+
+### Tiquete: <https://github.com/forestgeo/fgeo.plot/issues/57>
+
+### Archivo: <https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/fmrhQOQ.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/gadNgaY.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/5MiM5RC.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/m230nzj.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/ZKksnVi.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/PAgI3mX.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/1nOkjOu.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/AoxcNpK.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/Gcv7fZU.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/HS2tUli.png" align="center" width=760/>
+
+## Que es un “commit”?
+
+<img src="https://i.imgur.com/OPuzdBA.png" align="center" width=760/>
+
+# \+ RStudio
 
 ## Camino Largo
 
 TODO
 
-# Bonus (TBC)
-
-### Instalacion (ver \_[Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up)\_\_; Ingles)
+### Instalacion (ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up); Ingles)
 
 ### Evitar conflictos evitables
 
