@@ -25,6 +25,8 @@ Mauro Lepore
 
 ## Por que Git/GitHub?
 
+Como se siente trabajar con y sin Git.
+
 <div class="columns-2">
 
 <img src="https://i.imgur.com/MBv5IJQ.jpg" align="center" width=325/>
@@ -33,12 +35,10 @@ Mauro Lepore
 
 </div>
 
-Como se siente trabajar con y sin Git.
+.
 
-–
-
-Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to
-talk about version control?](https://peerj.com/preprints/3159/)
+[Excuse me, do you have a moment to talk about version
+control?](https://peerj.com/preprints/3159/) (Jenny Bryan; Ingles)
 
 # Motivacion
 
@@ -74,21 +74,15 @@ fork fgeocomm/fgeo.plot, so you can send a pull request.”*
 
 <img src="https://i.imgur.com/Ed8qevw.png" align="center" width=760/>
 
-## Camino corto (Demostrar)
+# Camino corto
 
-### [Tiquete](https://github.com/forestgeo/fgeo.plot/issues/57)
-
-### [Archivo a modificar](https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd)
+[Demostrar](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 ## Quieres practicar?
 
 ### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
 
 <img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
-
-# Que es un “commit”?
-
-### **Introduccion al uso de Git desde RStudio**
 
 ## Que es un “commit”?
 
@@ -138,9 +132,7 @@ fork fgeocomm/fgeo.plot, so you can send a pull request.”*
 
 <img src="https://i.imgur.com/02ANh0I.png" align="center" width=760/>
 
-## Camino Largo
-
-### Bifurcar
+## Camino Largo: Bifurcar
 
 <img src="https://i.imgur.com/GKEbEAi.png" align="center" width=760/>
 
@@ -156,22 +148,22 @@ fork fgeocomm/fgeo.plot, so you can send a pull request.”*
 
 <img src="https://i.imgur.com/WF5xwcV.png" align="center" width=760/>
 
-## Camino Largo (Demostrar)
+## Camino Largo: Hacer “Push”
 
-### [Repositorio](https://github.com/forestgeo/fgeo.plot/)
+<img src="https://i.imgur.com/6gUJuwy.png" align="center" width=760/>
 
-# Apendice
+## Camino Largo: Solicitar fusion
 
-## Recursos
+<img src="https://i.imgur.com/KEDeIvq.png" align="center" width=760/>
 
-TODO
+# Camino Largo
 
-### Instalacion (ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up); Ingles)
+### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
-### Evitar conflictos evitables
+## Extras (si hay tiempo)
 
-Actualizar la base de nuestra solicitud de fusión.
+### Instalacion: Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
-### Configuración
+### Configuración: Demostrar `git config --global -l`
 
-### Cambiar la historia
+### Cambiar la historia: Demostrar `reset`, `revert`, `rebase -i`

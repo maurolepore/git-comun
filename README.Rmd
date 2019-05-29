@@ -32,17 +32,17 @@ Mauro Lepore
 
 ## Por que Git/GitHub?
 
+Como se siente trabajar con y sin Git.
+
 <div class="columns-2">
 <img src="https://i.imgur.com/MBv5IJQ.jpg" align="center" width=325/>
 
 <img src="https://i.imgur.com/uORi6QZ.png" align="center" width=325/>
 </div>
 
-Como se siente trabajar con y sin Git.
+. 
 
---
-
-Articulo de Jenny Bryan (Ingles): [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)
+[Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/) (Jenny Bryan; Ingles)
 
 
 
@@ -84,11 +84,9 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 
 
 
-## Camino corto (Demostrar)
+# Camino corto
 
-### [Tiquete](https://github.com/forestgeo/fgeo.plot/issues/57)
-
-### [Archivo a modificar](https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd)
+[Demostrar](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 
 
@@ -97,12 +95,6 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 ### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
 
 <img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
-
-
-
-# Que es un "commit"?
-
-### __Introduccion al uso de Git desde RStudio__
 
 
 
@@ -158,9 +150,7 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 
 
 
-## Camino Largo
-
-### Bifurcar
+## Camino Largo: Bifurcar
 
 <img src="https://i.imgur.com/GKEbEAi.png" align="center" width=760/>
 
@@ -170,39 +160,35 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 
 <img src="https://i.imgur.com/A1sXnz8.png" align="center" width=760/>
 
-
-
 ## Camino Largo: Clonar (RStudio)
 
 <img src="https://i.imgur.com/D5VwX1U.png" align="center" width=760/>
-
-
 
 ## Camino Largo: Trabajar en un tiquete
 
 <img src="https://i.imgur.com/WF5xwcV.png" align="center" width=760/>
 
+## Camino Largo: Hacer "Push"
+
+<img src="https://i.imgur.com/6gUJuwy.png" align="center" width=760/>
+
+## Camino Largo: Solicitar fusion
+
+<img src="https://i.imgur.com/KEDeIvq.png" align="center" width=760/>
 
 
-## Camino Largo (Demostrar)
 
-### [Repositorio](https://github.com/forestgeo/fgeo.plot/)
+# Camino Largo 
 
-
-# Apendice
+### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
 
 
-## Recursos
+## Extras (si hay tiempo)
 
-TODO
+### Instalacion: Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
-### Instalacion (ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up); Ingles)
+### Configuración: Demostrar `git config --global -l`
 
-### Evitar conflictos evitables
+### Cambiar la historia: Demostrar `reset`, `revert`, `rebase -i`
 
-Actualizar la base de nuestra solicitud de fusión.
-
-### Configuración
-
-### Cambiar la historia
