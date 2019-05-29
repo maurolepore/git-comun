@@ -46,15 +46,18 @@ control?](https://peerj.com/preprints/3159/)* (Ingles)
 
 ## Camino corto
 
+TODO
+
 ## Camino Largo
 
-# Bonus
+TODO
 
-### **3. Evitar conflictos evitables**
+# Bonus (TBC)
+
+### Evitar conflictos evitables
 
 Actualizar la base de nuestra solicitud de fusión.
 
-### **Apéndice**
+### Configuración
 
-  - Configuración.
-  - Cambiar la historia.
+### Cambiar la historia
