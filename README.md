@@ -58,15 +58,19 @@ talk about version control?](https://peerj.com/preprints/3159/)
 
 <img src="https://i.imgur.com/6HhDogh.png" align="center" width=500/>
 
-## Camino corto
+## Camino corto: Auto-bifurcar
+
+*“You’re editing a file in a project you don’t have write access to.
+Submitting a change to this file will write it to a new branch in your
+fork fgeocomm/fgeo.plot, so you can send a pull request.”*
 
 <img src="https://i.imgur.com/Kkll2w8.png" align="center" width=760/>
 
-## Camino corto
+## Camino corto: Trabajar en un tiquete
 
 <img src="https://i.imgur.com/nMUKXdE.png" align="center" width=760/>
 
-## Camino corto
+## Camino corto: Solicitar fusion
 
 <img src="https://i.imgur.com/Ed8qevw.png" align="center" width=760/>
 
@@ -133,6 +137,28 @@ talk about version control?](https://peerj.com/preprints/3159/)
 ## Camino Largo
 
 <img src="https://i.imgur.com/02ANh0I.png" align="center" width=760/>
+
+## Camino Largo
+
+### Bifurcar
+
+<img src="https://i.imgur.com/GKEbEAi.png" align="center" width=760/>
+
+## Camino Largo: Clonar (GitHub)
+
+<img src="https://i.imgur.com/A1sXnz8.png" align="center" width=760/>
+
+## Camino Largo: Clonar (RStudio)
+
+<img src="https://i.imgur.com/D5VwX1U.png" align="center" width=760/>
+
+## Camino Largo: Trabajar en un tiquete
+
+<img src="https://i.imgur.com/WF5xwcV.png" align="center" width=760/>
+
+## Camino Largo (Demostrar)
+
+### [Repositorio](https://github.com/forestgeo/fgeo.plot/)
 
 # Apendice
 
