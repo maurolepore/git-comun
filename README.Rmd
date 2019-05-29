@@ -8,13 +8,28 @@ Mauro Lepore
 
 ### https://github.com/maurolepore/git-comun
 
-##
+## Aprender a colaborar
 
 ### __1. Bifurcar__
 
 ### __2. Trabajar en un tiquete__
 
 ### __3. Solicitar fusión__
+
+
+## Por que Git/GitHub?
+
+<div class="columns-2">
+<img src="https://i.imgur.com/MBv5IJQ.jpg" align="center" width=325/>
+
+<img src="https://i.imgur.com/uORi6QZ.png" align="center" width=325/>
+</div>
+
+_[Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/)_ (Ingles)
+
+## Instalacion
+
+### [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
 # Caso de estudio
 
@@ -28,11 +43,13 @@ Mauro Lepore
 
 <img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
 
+# Manos a la obra
 
+## Camino corto
 
+## Camino Largo
 
-
-
+# Bonus
 
 ### __3. Evitar conflictos evitables__
 
