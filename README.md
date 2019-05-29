@@ -5,11 +5,13 @@ Mauro Lepore
 
 ### **<http://bit.ly/git-comun>**
 
-## 
+# 
 
-### This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+### Este trabajo usa la licencia Creative Commons Attribution-ShareAlike 4.0 International License disponible en <http://creativecommons.org/licenses/by-sa/4.0>
 
-### To view a copy of this license, visit <http://creativecommons.org/licenses/by-sa/4.0>
+–
+
+### Muchas ideas e imagenes vienen de <https://jennybc.github.io/wtf-2019-rsc/>
 
 ## Aprender a colaborar
 
@@ -48,13 +50,13 @@ talk about version control?](https://peerj.com/preprints/3159/)
 
   - **Bifurcar un repositorio**
 
-<img src="imagenes/fork.png" align="center" width=500/>
+<img src="https://i.imgur.com/lVc3GFU.png" align="center" width=500/>
 
   - **Trabajar en un tiquete**
 
   - **Solicitar fusión**
 
-<img src="imagenes/pull.png" align="center" width=500/>
+<img src="https://i.imgur.com/6HhDogh.png" align="center" width=500/>
 
 ## Camino corto
 
@@ -70,23 +72,15 @@ talk about version control?](https://peerj.com/preprints/3159/)
 
 ## Camino corto (Demostrar)
 
-### Tiquete: <https://github.com/forestgeo/fgeo.plot/issues/57>
+### [Tiquete](https://github.com/forestgeo/fgeo.plot/issues/57)
 
-### Archivo: <https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd>
+### [Archivo a modificar](https://github.com/forestgeo/fgeo.plot/blob/master/README.Rmd)
 
 ## Quieres practicar?
 
 ### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
 
 <img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
-
-# Git + GitHub + RStudio
-
-### Camino largo
-
-  - **Bifurcar un repositorio**
-  - **Trabajar en un tiquete**
-  - **Solicitar fusión**
 
 # Que es un “commit”?
 
@@ -138,7 +132,7 @@ talk about version control?](https://peerj.com/preprints/3159/)
 
 ## Camino Largo
 
-TODO
+<img src="https://i.imgur.com/02ANh0I.png" align="center" width=760/>
 
 # Apendice
 
