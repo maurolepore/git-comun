@@ -14,11 +14,17 @@ Mauro Lepore
 
 #
 
-### Este trabajo usa la licencia Creative Commons Attribution-ShareAlike 4.0 International License disponible en http://creativecommons.org/licenses/by-sa/4.0
+Este trabajo usa la licencia Creative Commons Attribution-ShareAlike 4.0 International License disponible en:
+
+http://creativecommons.org/licenses/by-sa/4.0
 
 --
 
-### Muchas ideas e imagenes vienen de https://jennybc.github.io/wtf-2019-rsc/
+Muchas ideas e imagenes vienen de:
+
+https://jennybc.github.io/wtf-2019-rsc/
+
+
 
 ## Aprender a colaborar
 
