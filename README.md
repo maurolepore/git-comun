@@ -7,13 +7,23 @@ Mauro Lepore
 
 ## 
 
-### **1. Bifurcar y clonar**
+### **1. Bifurcar**
 
-Crear una bifurcación, clonarla, hacer “commits” y empujar.
+### **2. Trabajar en un tiquete**
 
-### **2. Trabajar en un tiquete y solicitar fusión**
+### **3. Solicitar fusión**
 
-Crear una rama, empujarla y solicitar fusión.
+# Caso de estudio
+
+### Arreglar URLs en README.Rmd
+
+[Tiquete modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
+
+## Quieres practicar?
+
+### [Tiquetes abiertos](https://github.com/search?utf8=%E2%9C%93&q=org%3Aforestgeo+is%3Aopen+%22Add+full+URLs+to+the+website%22&type=Issues)
+
+<img src="https://i.imgur.com/XsYdXmI.png" align="center" width=760/>
 
 ### **3. Evitar conflictos evitables**
 
