@@ -1,0 +1,28 @@
+---
+output: github_document
+---
+
+## Uso común de Git, GitHub y RStudio
+
+Mauro Lepore
+
+### https://github.com/maurolepore/git-comun
+
+##
+
+### __1. Bifurcar y clonar__
+
+Crear una bifurcación, clonarla, hacer "commits" y empujar.
+
+### __2. Trabajar en un tiquete y solicitar fusión__
+
+Crear una rama, empujarla y solicitar fusión.
+
+### __3. Evitar conflictos evitables__
+
+Actualizar la base de nuestra solicitud de fusión.
+
+### __Apéndice__
+
+* Configuración.
+* Cambiar la historia.
