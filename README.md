@@ -303,6 +303,21 @@ git revert HEAD~1 --no-edit
 git revert a867f483 --no-edit
 ```
 
+## Eliminar una rama
+
+``` bash
+# Localmente
+git branch -d nombre-de-la-rama
+# Localmente, forzado
+git branch -D nombre-de-la-rama
+
+# Remotamente, en el remoto origin
+git push -d origin nombre-de-la-rama
+
+# Remotamente, en el remoto upstream
+git push -d upstream nombre-de-la-rama
+```
+
 ## Manipular la historia interactivamente
 
 ``` bash
