@@ -303,6 +303,13 @@ git revert HEAD~1 --no-edit
 git revert a867f483 --no-edit
 ```
 
+## Elegir un commit especifico
+
+``` bash
+# Elegir el commit 63da5bb3
+git cherry-pick 63da5bb3
+```
+
 ## Eliminar una rama
 
 ``` bash
