@@ -268,11 +268,7 @@ git checkout master
 git rebase upstream/master
 ```
 
-–
-
-Lo que yo realmente hago esta explicado
-en:
-
+Lo que yo realmente hago esta explicado en
 <https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow>
 
 ## Deshacer “commits”; guardar cambios
@@ -313,8 +309,6 @@ git rebase -i HEAD~3
     # If you remove a line here THAT COMMIT WILL BE LOST.
 
 (Traducción en la siguiente pagina)
-
-–
 
 <https://about.gitlab.com/2018/06/07/keeping-git-commit-history-clean/>
 
