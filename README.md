@@ -30,7 +30,7 @@ Muchas ideas e imágenes vienen de:
   - **Trabajar en un tiquete**
   - **Solicitar fusión**
 
-## Referencias:
+## Referencias
 
 ### Uso de Git desde la terminal versus RStudio
 
@@ -110,7 +110,7 @@ request.”*
 
 ## Que es un “commit”?
 
-<img src="https://i.imgur.com/gadNgaY.png" align="center" width=760/>
+<img src="https://i.imgur.com/zizuprp.png" align="center" width=760/>
 
 ## Que es un “commit”?
 

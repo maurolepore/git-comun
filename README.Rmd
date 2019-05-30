@@ -37,7 +37,9 @@ https://jennybc.github.io/wtf-2019-rsc/
 * __Solicitar fusión__
 
 
-## Referencias:
+
+
+## Referencias
 
 ### Uso de Git desde la terminal versus RStudio
 
@@ -125,7 +127,7 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 
 ## Que es un "commit"?
 
-<img src="https://i.imgur.com/gadNgaY.png" align="center" width=760/>
+<img src="https://i.imgur.com/zizuprp.png" align="center" width=760/>
 
 ## Que es un "commit"?
 
