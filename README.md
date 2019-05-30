@@ -33,6 +33,7 @@ Muchas ideas e imágenes vienen de:
   - **Instalación**
   - **Configuraciones globales**
   - **Operaciones comunes**
+  - **Demostraciones paso a paso**
 
 ## Por que Git/GitHub?
 
@@ -141,11 +142,13 @@ Lepore**
 
 # Apéndice
 
-## Instalación
+# Instalación
 
 ### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
-## Configuraciones globales
+# Configuraciones globales
+
+## 
 
 ``` bash
 # Ver la lista de configuraciones globales
@@ -165,7 +168,7 @@ Configuraciones útiles
     # Reduce las chances de crear conflictos
     pull.ff=only
 
-## Operaciones comunes
+# Operaciones comunes
 
 ## Crear/checkear/sincronizar una rama
 
@@ -322,15 +325,7 @@ git rebase --continue
   - Re-ordenar linear para re-ordenar “commits”
   - Borrar una linea para eliminar un “commit” (CUIDADO\!)
 
-# **<http://bit.ly/git-comun>**
-
-### **Preguntas**
-
-**Mauro Lepore**
-
-# Demostraciones
-
-## Paso a paso
+# Demostraciones paso a paso
 
 ## Camino corto: Auto-bifurcar
 

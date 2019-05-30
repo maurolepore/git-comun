@@ -41,6 +41,7 @@ https://jennybc.github.io/wtf-2019-rsc/
 * __Instalación__
 * __Configuraciones globales__
 * __Operaciones comunes__
+* __Demostraciones paso a paso__
 
 
 
@@ -161,13 +162,15 @@ __Mauro Lepore__
 
 
 
-## Instalación
+# Instalación
 
 ### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
 
 
-## Configuraciones globales
+# Configuraciones globales
+
+## 
 
 ```bash
 # Ver la lista de configuraciones globales
@@ -191,9 +194,7 @@ pull.ff=only
 
 
 
-## Operaciones comunes
-
-
+# Operaciones comunes
 
 ## Crear/checkear/sincronizar una rama
 
@@ -371,17 +372,7 @@ git rebase --continue
 
 
 
-# __<http://bit.ly/git-comun>__
-
-### __Preguntas__
-
-__Mauro Lepore__
-
-
-
-# Demostraciones
-
-##  Paso a paso
+# Demostraciones paso a paso
 
 ## Camino corto: Auto-bifurcar
 
