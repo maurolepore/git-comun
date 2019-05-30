@@ -36,10 +36,11 @@ https://jennybc.github.io/wtf-2019-rsc/
 
 
 
+## Apéndice
 
-## Referencias
+### Instalación
 
-### Uso de Git desde la terminal versus RStudio
+### Configuraciones globales
 
 ### Operaciones comunes
 
@@ -203,36 +204,52 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
-## Camino Largo 
-
-### 1. Clonar localmente
-
-### 2. Clonar en rstudio.cloud
 
 
+# __<http://bit.ly/git-comun>__
 
-# Configuración
+### __Preguntas__
+
+__Mauro Lepore__
 
 
 
-## _Tools > Global options... Workspace_
 
-<img src="https://i.imgur.com/EsYl7OG.png" align="center" width=500/>
-
+# Apéndice
 
 
-## Hola Git, soy Mauro
 
-<img src="https://i.imgur.com/EEIF9oY.png" align="center" width=760/>
+## Instalación
+
+### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
+
+
+
+## Configuraciones globales
 
 ```bash
+# Ver la lista de configuraciones globales
+git config --global -l
+
+# Definir mi email y usuario
 git config --global user.email "maurolepore@gmail.com"
 git config --global user.name "maurolepore"
 ```
 
+Configuraciones útiles
+
+```
+# Elegir un editor de texto amigable
+core.editor=notepad
+# Permite empujar cualquier rama directamente con `git push`
+push.default=current
+# Reduce las chances de crear conflictos
+pull.ff=only
+```
 
 
-# Terminal versus RStudio
+
+## Operaciones comunes
 
 
 
@@ -383,12 +400,6 @@ git rebase --continue
 
 * Re-ordenar linear para re-ordenar "commits"
 * Borrar una linea para eliminar un "commit" (CUIDADO!)
-
-
-
-## Instalación
-
-### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
 
 

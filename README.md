@@ -28,9 +28,11 @@ Muchas ideas e imágenes vienen de:
   - **Trabajar en un tiquete**
   - **Solicitar fusión**
 
-## Referencias
+## Apéndice
 
-### Uso de Git desde la terminal versus RStudio
+### Instalación
+
+### Configuraciones globales
 
 ### Operaciones comunes
 
@@ -178,28 +180,40 @@ request.”*
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
-## Camino Largo
+# **<http://bit.ly/git-comun>**
 
-### 1\. Clonar localmente
+### **Preguntas**
 
-### 2\. Clonar en rstudio.cloud
+**Mauro
+Lepore**
 
-# Configuración
+# Apéndice
 
-## *Tools \> Global options… Workspace*
+## Instalación
 
-<img src="https://i.imgur.com/EsYl7OG.png" align="center" width=500/>
+### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
-## Hola Git, soy Mauro
-
-<img src="https://i.imgur.com/EEIF9oY.png" align="center" width=760/>
+## Configuraciones globales
 
 ``` bash
+# Ver la lista de configuraciones globales
+git config --global -l
+
+# Definir mi email y usuario
 git config --global user.email "maurolepore@gmail.com"
 git config --global user.name "maurolepore"
 ```
 
-# Terminal versus RStudio
+Configuraciones útiles
+
+    # Elegir un editor de texto amigable
+    core.editor=notepad
+    # Permite empujar cualquier rama directamente con `git push`
+    push.default=current
+    # Reduce las chances de crear conflictos
+    pull.ff=only
+
+## Operaciones comunes
 
 ## Crear/checkear/sincronizar una rama
 
@@ -332,12 +346,7 @@ git rebase --continue
 ```
 
   - Re-ordenar linear para re-ordenar “commits”
-  - Borrar una linea para eliminar un “commit”
-(CUIDADO\!)
-
-## Instalación
-
-### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
+  - Borrar una linea para eliminar un “commit” (CUIDADO\!)
 
 # **<http://bit.ly/git-comun>**
 
