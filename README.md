@@ -5,7 +5,7 @@ Mauro Lepore
 
 ### Repositorio: **<http://bit.ly/git-comun>**
 
-### Presentacion: **<http://bit.ly/git-comun-presentacion>**
+### Presentación: **<http://bit.ly/git-comun-presentacion>**
 
 # 
 
@@ -16,7 +16,7 @@ International License disponible en:
 
 –
 
-Muchas ideas e imagenes vienen de:
+Muchas ideas e imágenes vienen de:
 
 <https://jennybc.github.io/wtf-2019-rsc/>
 
@@ -29,6 +29,12 @@ Muchas ideas e imagenes vienen de:
   - **Bifurcar un repositorio**
   - **Trabajar en un tiquete**
   - **Solicitar fusión**
+
+## Referencias:
+
+### Uso de Git desde la terminal versus RStudio
+
+### Operaciones comunes
 
 ## Por que Git/GitHub?
 
@@ -47,7 +53,7 @@ Como se siente trabajar con y sin Git.
 [Excuse me, do you have a moment to talk about version
 control?](https://peerj.com/preprints/3159/) (Jenny Bryan; Ingles)
 
-# Motivacion
+# Motivación
 
 ### Arreglar URLs en README.Rmd
 
@@ -78,13 +84,19 @@ request.”*
 
 <img src="https://i.imgur.com/nMUKXdE.png" align="center" width=760/>
 
-## Camino corto: Solicitar fusion
+## Camino corto: Solicitar fusión
 
 <img src="https://i.imgur.com/Ed8qevw.png" align="center" width=760/>
 
 # Camino corto
 
 [Demostrar](https://github.com/forestgeo/fgeo.plot/issues/57)
+
+## Quieres practicar?
+
+### [CODE\_OF\_CONDUCT user:forestgeo language:RMarkdown](https://github.com/search?q=CODE_OF_CONDUCT+user%3Aforestgeo+language%3ARMarkdown&type=Code)
+
+<img src="https://i.imgur.com/gxCV2D0.png" align="center" width=760/>
 
 ## Quieres practicar?
 
@@ -160,7 +172,7 @@ request.”*
 
 <img src="https://i.imgur.com/6gUJuwy.png" align="center" width=760/>
 
-## Camino Largo: Solicitar fusion
+## Camino Largo: Solicitar fusión
 
 <img src="https://i.imgur.com/KEDeIvq.png" align="center" width=760/>
 
@@ -168,59 +180,135 @@ request.”*
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
-Clonar localmente
+## Camino Largo
 
-Clonar en rstudio.cloud:
+### 1\. Clonar localmente
 
-  - Configurar *Tools \> Global options… Workspace*
-  - Intentar primer “commit”
-  - Introducirme a Git:
+### 2\. Clonar en rstudio.cloud
 
-<!-- end list -->
+# Configuración
+
+## *Tools \> Global options… Workspace*
+
+<img src="https://i.imgur.com/EsYl7OG.png" align="center" width=500/>
+
+## Hola Git, soy Mauro
+
+<img src="https://i.imgur.com/EEIF9oY.png" align="center" width=760/>
 
 ``` bash
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "maurolepore@gmail.com"
+git config --global user.name "maurolepore"
 ```
 
-  - Hacer “commit”
+# Terminal versus RStudio
 
-<!-- end list -->
+## Crear/checkear/sincronizar una rama
+
+<img src="https://i.imgur.com/spQyR4r.png" align="center" width=760/>
+
+``` bash
+git checkout -b 57_add-full-url
+
+git push -u origin 57_add-full-url
+# Mejor aún:
+git config --global push.default "current"
+git push
+```
+
+## Hacer “commit”
+
+<img src="https://i.imgur.com/lXTXDTB.png" align="center" width=760/>
 
 ``` bash
 git add .
 git commit -m "Add full URLs (closes #57)"
 ```
 
-  - Deshacer el ultimo commit (preservando los cambios)
+## Editar el mensaje del ultimo “commit”
 
-<!-- end list -->
+<img src="https://i.imgur.com/FLT3de1.png" align="center" width=760/>
 
 ``` bash
+git commit --amend -m "Agregar URLs completos (closes #57)"
+```
+
+## Descartar cambios en escena
+
+<img src="https://i.imgur.com/b2Cvwmt.png" align="center" width=760/>
+
+``` bash
+git reset --hard
+```
+
+## Deshacer “commits”; guardar cambios
+
+``` bash
+# ~1 deshace ultimo "commit"
+# ~2 deshace ultimos 2 "commits"
+# ~n deshace ultimos n "commits"
 git reset HEAD~1
 ```
 
-  - Contrarestar el ultimo commit (preservando el commit)
-
-<!-- end list -->
+## Contrarrestar un “commit”
 
 ``` bash
+# ~1 contrarresta el ultimo "commit"
+# --no-edit escribe un mensaje automatico
 git revert HEAD~1 --no-edit
+
+# Contrarresta el "commit" con SHA a867f483
+git revert a867f483 --no-edit
 ```
 
-  - Mas
-poder
-
-<!-- end list -->
+## Manipular la historia interactivamente
 
 ``` bash
+# ~3 manipular la historia de los ultimos 3 "commits"
 git rebase -i HEAD~3
 ```
 
-## Extras (si hay tiempo)
+    # Commands:
+    # p, pick = use commit
+    # e, edit = use commit, but stop for amending
+    # s, squash = use commit, but meld into previous commit
+    # ...
+    #
+    # These lines can be re-ordered; they are executed from top to bottom.
+    #
+    # If you remove a line here THAT COMMIT WILL BE LOST.
 
-### Instalacion: Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
+(Traducción en la siguiente pagina)
 
-### Configuración: Demostrar `git config --global -l`
+## Manipular la historia interactivamente
 
-### Cambiar la historia: Demostrar `reset`, `revert`, `rebase -i`
+  - Abortar y dejar todo tal como estaba
+
+<!-- end list -->
+
+``` bash
+git rebase --abort
+```
+
+  - s: Colapsar dos o mas “commits” contiguos
+
+  - e: Editar el mensaje del “commit”
+
+<!-- end list -->
+
+``` bash
+git commit --amend -m "Editar mensaje"
+git rebase --continue
+```
+
+  - Re-ordenar linear para re-ordenar “commits”
+  - Borrar una linea para eliminar un “commit”
+(CUIDADO\!)
+
+## Apéndice
+
+### Instalación: Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
+
+# Preguntas
+
+### <https://github.com/maurolepore>
