@@ -341,6 +341,8 @@ git rebase --continue
 
 ### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
-# Preguntas
+# **<http://bit.ly/git-comun>**
 
-### <https://github.com/maurolepore>
+### **Preguntas**
+
+**Mauro Lepore**

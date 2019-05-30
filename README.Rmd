@@ -394,6 +394,8 @@ git rebase --continue
 
 
 
-# Preguntas
+# __<http://bit.ly/git-comun>__
 
-### https://github.com/maurolepore
+### __Preguntas__
+
+__Mauro Lepore__
