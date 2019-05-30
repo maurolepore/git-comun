@@ -69,7 +69,8 @@ control?](https://peerj.com/preprints/3159/) (Jenny Bryan; Ingles)
 
 *“You’re editing a file in a project you don’t have write access to.
 Submitting a change to this file will write it to a new branch in your
-fork fgeocomm/fgeo.plot, so you can send a pull request.”*
+fork fgeocomm/fgeo.plot, so you can send a pull
+request.”*
 
 <img src="https://i.imgur.com/Kkll2w8.png" align="center" width=760/>
 
@@ -166,6 +167,55 @@ fork fgeocomm/fgeo.plot, so you can send a pull request.”*
 # Camino Largo
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
+
+Clonar localmente
+
+Clonar en rstudio.cloud:
+
+  - Configurar *Tools \> Global options… Workspace*
+  - Intentar primer “commit”
+  - Introducirme a Git:
+
+<!-- end list -->
+
+``` bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
+  - Hacer “commit”
+
+<!-- end list -->
+
+``` bash
+git add .
+git commit -m "Add full URLs (closes #57)"
+```
+
+  - Deshacer el ultimo commit (preservando los cambios)
+
+<!-- end list -->
+
+``` bash
+git reset HEAD~1
+```
+
+  - Contrarestar el ultimo commit (preservando el commit)
+
+<!-- end list -->
+
+``` bash
+git revert HEAD~1 --no-edit
+```
+
+  - Mas
+poder
+
+<!-- end list -->
+
+``` bash
+git rebase -i HEAD~3
+```
 
 ## Extras (si hay tiempo)
 

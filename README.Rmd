@@ -190,7 +190,42 @@ _"You're editing a file in a project you don’t have write access to. Submittin
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
+Clonar localmente
 
+Clonar en rstudio.cloud:
+
+* Configurar _Tools > Global options... Workspace_
+* Intentar primer "commit"
+* Introducirme a Git:
+
+```bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
+* Hacer "commit"
+
+```bash
+git add .
+git commit -m "Add full URLs (closes #57)"
+```
+
+* Deshacer el ultimo commit (preservando los cambios)
+
+```bash
+git reset HEAD~1
+```
+
+* Contrarestar el ultimo commit (preservando el commit)
+```bash
+git revert HEAD~1 --no-edit
+```
+
+* Mas poder
+
+```bash
+git rebase -i HEAD~3
+```
 
 ## Extras (si hay tiempo)
 
