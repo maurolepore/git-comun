@@ -8,8 +8,6 @@ Mauro Lepore
 
 ### Repositorio: __<http://bit.ly/git-comun>__
 
-### Presentación: __<http://bit.ly/git-comun-presentacion>__
-
 
 
 #

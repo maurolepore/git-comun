@@ -5,8 +5,6 @@ Mauro Lepore
 
 ### Repositorio: **<http://bit.ly/git-comun>**
 
-### Presentación: **<http://bit.ly/git-comun-presentacion>**
-
 # 
 
 Este trabajo usa la licencia Creative Commons Attribution-ShareAlike 4.0
