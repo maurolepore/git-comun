@@ -30,9 +30,9 @@ Muchas ideas e imágenes vienen de:
 
 ## Apéndice
 
-  - Instalación
-  - Configuraciones globales
-  - Operaciones comunes
+  - **Instalación**
+  - **Configuraciones globales**
+  - **Operaciones comunes**
 
 ## Por que Git/GitHub?
 
@@ -55,46 +55,24 @@ control?](https://peerj.com/preprints/3159/) (Jenny Bryan; Ingles)
 
 ### Arreglar URLs en README.Rmd
 
-[Tiquete modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
+[Tiquete
+modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
 
-## Camino corto
+## Camino corto (en GitHub)
 
-  - **Bifurcar un repositorio**
+### **Bifurcar un repositorio**
 
-<img src="https://i.imgur.com/lVc3GFU.png" align="center" width=500/>
+### `upstream (ell@s) ---> origin (yo)`
 
-  - **Trabajar en un tiquete**
+### **Trabajar en un tiquete**
 
-  - **Solicitar fusión**
+### **Solicitar fusión**
 
-<img src="https://i.imgur.com/6HhDogh.png" align="center" width=500/>
+### `upstream (ell@s) <--- origin (yo)`
 
-## Camino corto: Auto-bifurcar
-
-*“You’re editing a file in a project you don’t have write access to.
-Submitting a change to this file will write it to a new branch in your
-fork fgeocomm/fgeo.plot, so you can send a pull
-request.”*
-
-<img src="https://i.imgur.com/Kkll2w8.png" align="center" width=760/>
-
-## Camino corto: Trabajar en un tiquete
-
-<img src="https://i.imgur.com/nMUKXdE.png" align="center" width=760/>
-
-## Camino corto: Solicitar fusión
-
-<img src="https://i.imgur.com/Ed8qevw.png" align="center" width=760/>
-
-# Camino corto
+–
 
 [Demostrar](https://github.com/forestgeo/fgeo.plot/issues/57)
-
-## Quieres practicar?
-
-### [CODE\_OF\_CONDUCT user:forestgeo language:RMarkdown](https://github.com/search?q=CODE_OF_CONDUCT+user%3Aforestgeo+language%3ARMarkdown&type=Code)
-
-<img src="https://i.imgur.com/gxCV2D0.png" align="center" width=760/>
 
 ## Quieres practicar?
 
@@ -150,31 +128,7 @@ request.”*
 
 <img src="https://i.imgur.com/02ANh0I.png" align="center" width=760/>
 
-## Camino Largo: Bifurcar
-
-<img src="https://i.imgur.com/GKEbEAi.png" align="center" width=760/>
-
-## Camino Largo: Clonar (GitHub)
-
-<img src="https://i.imgur.com/A1sXnz8.png" align="center" width=760/>
-
-## Camino Largo: Clonar (RStudio)
-
-<img src="https://i.imgur.com/D5VwX1U.png" align="center" width=760/>
-
-## Camino Largo: Trabajar en un tiquete
-
-<img src="https://i.imgur.com/WF5xwcV.png" align="center" width=760/>
-
-## Camino Largo: Hacer “Push”
-
-<img src="https://i.imgur.com/6gUJuwy.png" align="center" width=760/>
-
-## Camino Largo: Solicitar fusión
-
-<img src="https://i.imgur.com/KEDeIvq.png" align="center" width=760/>
-
-# Camino Largo
+–
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
@@ -373,3 +327,47 @@ git rebase --continue
 ### **Preguntas**
 
 **Mauro Lepore**
+
+# Demostraciones
+
+## Paso a paso
+
+## Camino corto: Auto-bifurcar
+
+*“You’re editing a file in a project you don’t have write access to.
+Submitting a change to this file will write it to a new branch in your
+fork fgeocomm/fgeo.plot, so you can send a pull request.”*
+
+<img src="https://i.imgur.com/Kkll2w8.png" align="center" width=760/>
+
+## Camino corto: Trabajar en un tiquete
+
+<img src="https://i.imgur.com/nMUKXdE.png" align="center" width=760/>
+
+## Camino corto: Solicitar fusión
+
+<img src="https://i.imgur.com/Ed8qevw.png" align="center" width=760/>
+
+## Camino Largo: Bifurcar
+
+<img src="https://i.imgur.com/GKEbEAi.png" align="center" width=760/>
+
+## Camino Largo: Clonar (GitHub)
+
+<img src="https://i.imgur.com/A1sXnz8.png" align="center" width=760/>
+
+## Camino Largo: Clonar (RStudio)
+
+<img src="https://i.imgur.com/D5VwX1U.png" align="center" width=760/>
+
+## Camino Largo: Trabajar en un tiquete
+
+<img src="https://i.imgur.com/WF5xwcV.png" align="center" width=760/>
+
+## Camino Largo: Hacer “Push”
+
+<img src="https://i.imgur.com/6gUJuwy.png" align="center" width=760/>
+
+## Camino Largo: Solicitar fusión
+
+<img src="https://i.imgur.com/KEDeIvq.png" align="center" width=760/>
