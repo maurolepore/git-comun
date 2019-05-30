@@ -343,9 +343,9 @@ git rebase --continue
   - Borrar una linea para eliminar un “commit”
 (CUIDADO\!)
 
-## Apéndice
+## Instalación
 
-### Instalación: Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
+### Ver [Pre-workshop set-up](https://happygitwithr.com/workshops.html#pre-workshop-set-up) (Ingles)
 
 # Preguntas
 
