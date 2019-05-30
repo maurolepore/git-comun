@@ -38,11 +38,9 @@ https://jennybc.github.io/wtf-2019-rsc/
 
 ## Apéndice
 
-### Instalación
-
-### Configuraciones globales
-
-### Operaciones comunes
+* Instalación
+* Configuraciones globales
+* Operaciones comunes
 
 
 

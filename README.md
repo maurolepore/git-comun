@@ -30,11 +30,9 @@ Muchas ideas e imágenes vienen de:
 
 ## Apéndice
 
-### Instalación
-
-### Configuraciones globales
-
-### Operaciones comunes
+  - Instalación
+  - Configuraciones globales
+  - Operaciones comunes
 
 ## Por que Git/GitHub?
 
