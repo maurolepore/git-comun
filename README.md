@@ -241,6 +241,40 @@ git commit --amend -m "Agregar URLs completos (closes #57)"
 git reset --hard
 ```
 
+## Cambiar de rama
+
+<img src="https://i.imgur.com/5Xs2YEy.png" align="center" width=760/>
+
+``` bash
+git checkout master
+```
+
+## Agregar el remoto “upstream”
+
+<img src="https://i.imgur.com/3fW3rwe.png" align="center" width=760/>
+
+``` bash
+# Agregar el remoto "upstream"
+git remote add upstream git@github.com:maurolepore/fgeo.plot.git
+```
+
+# Solo en la terminal
+
+## Actualizar contra el repositorio original
+
+``` bash
+git fetch upstream
+git checkout master
+git rebase upstream/master
+```
+
+–
+
+Lo que yo realmente hago esta explicado
+en:
+
+<https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow>
+
 ## Deshacer “commits”; guardar cambios
 
 ``` bash
@@ -279,6 +313,10 @@ git rebase -i HEAD~3
     # If you remove a line here THAT COMMIT WILL BE LOST.
 
 (Traducción en la siguiente pagina)
+
+–
+
+<https://about.gitlab.com/2018/06/07/keeping-git-commit-history-clean/>
 
 ## Manipular la historia interactivamente
 
