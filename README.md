@@ -56,8 +56,7 @@ control?](https://peerj.com/preprints/3159/) (Jenny Bryan; Ingles)
 
 ### Arreglar URLs en README.Rmd
 
-[Tiquete
-modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
+[Tiquete modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 ## Camino corto (en GitHub)
 
@@ -73,7 +72,8 @@ modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 –
 
-[Demostrar](https://github.com/forestgeo/fgeo.plot/issues/57)
+[Demostrar con usuario
+fgeocom](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 ## Quieres practicar?
 
@@ -133,12 +133,11 @@ modelo](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 ### [Demostrar](https://github.com/forestgeo/fgeo.plot/)
 
-# **<http://bit.ly/git-comun>**
+## Ya podes contribuir\!
 
 ### **Preguntas**
 
-**Mauro
-Lepore**
+<img src="https://i.imgur.com/zhm2sgW.jpg" align="center" width=760/>
 
 # Apéndice
 
@@ -324,6 +323,12 @@ git rebase --continue
 
   - Re-ordenar linear para re-ordenar “commits”
   - Borrar una linea para eliminar un “commit” (CUIDADO\!)
+
+# **<http://bit.ly/git-comun>**
+
+### **Preguntas**
+
+**Mauro Lepore**
 
 # Demostraciones paso a paso
 

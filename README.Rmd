@@ -81,7 +81,7 @@ Como se siente trabajar con y sin Git.
 
 --
 
-[Demostrar](https://github.com/forestgeo/fgeo.plot/issues/57)
+[Demostrar con usuario fgeocom](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 
 
@@ -149,12 +149,11 @@ Como se siente trabajar con y sin Git.
 
 
 
-# __<http://bit.ly/git-comun>__
+## Ya podes contribuir!
 
 ### __Preguntas__
 
-__Mauro Lepore__
-
+<img src="https://i.imgur.com/zhm2sgW.jpg" align="center" width=760/>
 
 
 
@@ -369,6 +368,14 @@ git rebase --continue
 
 * Re-ordenar linear para re-ordenar "commits"
 * Borrar una linea para eliminar un "commit" (CUIDADO!)
+
+
+
+# __<http://bit.ly/git-comun>__
+
+### __Preguntas__
+
+__Mauro Lepore__
 
 
 
