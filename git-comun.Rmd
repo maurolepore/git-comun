@@ -1,5 +1,5 @@
 ---
-subtitle: "Ir a la página siguiente"
+subtitle: "Ir a la página siguente"
 output: ioslides_presentation
 ---
 

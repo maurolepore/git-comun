@@ -135,9 +135,9 @@ fgeocom](https://github.com/forestgeo/fgeo.plot/issues/57)
 
 ## Ya podes contribuir\!
 
-### **Preguntas**
+<img src="https://i.imgur.com/zhm2sgW.jpg" align="center" width=660/>
 
-<img src="https://i.imgur.com/zhm2sgW.jpg" align="center" width=760/>
+### **Preguntas**
 
 # Apéndice
 

@@ -151,9 +151,9 @@ Como se siente trabajar con y sin Git.
 
 ## Ya podes contribuir!
 
-### __Preguntas__
+<img src="https://i.imgur.com/zhm2sgW.jpg" align="center" width=660/>
 
-<img src="https://i.imgur.com/zhm2sgW.jpg" align="center" width=760/>
+### __Preguntas__
 
 
 
